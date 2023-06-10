@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2188971426",
+    "project_id": "disorder-rose",
+    "storage_bucket": "disorder-rose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2188971426:android:ec20031bbadad6ab8476fb",
+        "android_client_info": {
+          "package_name": "com.example.community"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2188971426-fdokiqjp6c0u1tbfi6ddh791fvt4nee2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGII-UZAr0LJesiwshv5LO6GGYTJIxdEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2188971426-fdokiqjp6c0u1tbfi6ddh791fvt4nee2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
