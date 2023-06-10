@@ -1,2 +1,1 @@
-# Disorder-Flutter_update
- flutter app update version
+# 폴더로 들어가세요
